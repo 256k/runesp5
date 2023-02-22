@@ -1,0 +1,11 @@
+{
+  "name": "runesp5",
+  "version": "1.0.0",
+  "description": "a p5js midi sequencer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "256k",
+  "license": "ISC"
+}
